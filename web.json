@@ -3,7 +3,10 @@
    "how":"How do you want your egg today?",
    "boiledEgg":"Boiled egg",
    "softBoiledEgg":"Soft-boiled egg",
-   "choice":"How to choose the egg"
+   "choice":"How to choose the egg",
+   "cheese": "cave aged cheddar",
+   "cheese1": "brie",
+   "cheese2": "raclette"
  },
  "it": {
    "how":"Come vuoi il tuo uovo oggi?",
